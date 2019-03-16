@@ -1,0 +1,183 @@
+presidents:
+- firstName: George
+  middleInitial: 
+  lastName: Washington
+  email: George.Washington@wh.gov
+- firstName: John
+  middleInitial: 
+  lastName: Adams
+  email: John.Adams@wh.gov
+- firstName: Thomas
+  middleInitial: 
+  lastName: Jefferson
+  email: Thomas.Jefferson@wh.gov
+- firstName: James
+  middleInitial: 
+  lastName: Madison
+  email: James.Madison@wh.gov
+- firstName: James
+  middleInitial: 
+  lastName: Monroe
+  email: James.Monroe@wh.gov
+- firstName: John
+  middleInitial: Q
+  lastName: Adams
+  email: John.Q.Adams@wh.gov
+- firstName: Andrew
+  middleInitial: 
+  lastName: Jackson
+  email: Andrew.Jackson@wh.gov
+- firstName: Martin
+  middleInitial: 
+  lastName: Van Buren
+  email: Martin.Van Buren@wh.gov
+- firstName: William
+  middleInitial: H
+  lastName: Harrison
+  email: William.H.Harrison@wh.gov
+- firstName: John
+  middleInitial: 
+  lastName: Tyler
+  email: John.Tyler@wh.gov
+- firstName: James
+  middleInitial: K
+  lastName: Polk
+  email: James.K.Polk@wh.gov
+- firstName: Zachary
+  middleInitial: 
+  lastName: Taylor
+  email: Zachary.Taylor@wh.gov
+- firstName: Millard
+  middleInitial: 
+  lastName: Fillmore
+  email: Millard.Fillmore@wh.gov
+- firstName: Frankon
+  middleInitial: 
+  lastName: Pierce
+  email: Frankon.Pierce@wh.gov
+- firstName: James
+  middleInitial: 
+  lastName: Buchanan
+  email: James.Buchanan@wh.gov
+- firstName: Abraham
+  middleInitial: 
+  lastName: Lincoln
+  email: Abraham.Lincoln@wh.gov
+- firstName: Andrew
+  middleInitial: 
+  lastName: Johnson
+  email: Andrew.Johnson@wh.gov
+- firstName: Ulysses
+  middleInitial: S
+  lastName: Grant
+  email: Ulysses.S.Grant@wh.gov
+- firstName: Rutherford
+  middleInitial: B
+  lastName: Hayes
+  email: Rutherford.B.Hayes@wh.gov
+- firstName: James
+  middleInitial: A
+  lastName: Garfield
+  email: James.A.Garfield@wh.gov
+- firstName: Chester`
+  middleInitial: A
+  lastName: Arthur
+  email: Chester`.A.Arthur@wh.gov
+- firstName: Grover
+  middleInitial: 
+  lastName: Cleveland
+  email: Grover.Cleveland@wh.gov
+- firstName: Benjamin
+  middleInitial: 
+  lastName: Harrison
+  email: Benjamin.Harrison@wh.gov
+- firstName: Grover
+  middleInitial: 
+  lastName: Cleveland
+  email: Grover.Cleveland@wh.gov
+- firstName: William
+  middleInitial: 
+  lastName: McKinley
+  email: William.McKinley@wh.gov
+- firstName: Theodore
+  middleInitial: 
+  lastName: Roosevelt
+  email: Theodore.Roosevelt@wh.gov
+- firstName: William
+  middleInitial: H
+  lastName: Taft
+  email: William.H.Taft@wh.gov
+- firstName: Woodrow
+  middleInitial: 
+  lastName: Wilson
+  email: Woodrow.Wilson@wh.gov
+- firstName: Warren
+  middleInitial: G
+  lastName: Harding
+  email: Warren.G.Harding@wh.gov
+- firstName: Calvin
+  middleInitial: 
+  lastName: Coolidge
+  email: Calvin.Coolidge@wh.gov
+- firstName: Herber
+  middleInitial: 
+  lastName: Hoover
+  email: Herber.Hoover@wh.gov
+- firstName: Franklin
+  middleInitial: D
+  lastName: Roosevelt
+  email: Franklin.D.Roosevelt@wh.gov
+- firstName: Harry
+  middleInitial: S
+  lastName: Truman
+  email: Harry.S.Truman@wh.gov
+- firstName: Dwight
+  middleInitial: D
+  lastName: Eisenhower
+  email: Dwight.D.Eisenhower@wh.gov
+- firstName: John
+  middleInitial: F
+  lastName: Kennedy
+  email: John.F.Kennedy@wh.gov
+- firstName: Lyndon
+  middleInitial: B
+  lastName: Johnson
+  email: Lyndon.B.Johnson@wh.gov
+- firstName: Richard
+  middleInitial: M
+  lastName: Nixon
+  email: Richard.M.Nixon@wh.gov
+- firstName: Gerald
+  middleInitial: R
+  lastName: Ford
+  email: Gerald.R.Ford@wh.gov
+- firstName: Jimmy
+  middleInitial: 
+  lastName: Carter
+  email: Jimmy.Carter@wh.gov
+- firstName: Ronald
+  middleInitial: 
+  lastName: Reagan
+  email: Ronald.Reagan@wh.gov
+- firstName: George
+  middleInitial: HW
+  lastName: Bush
+  email: George.HW.Bush@wh.gov
+- firstName: Bill
+  middleInitial: 
+  lastName: Clinton
+  email: Bill.Clinton@wh.gov
+- firstName: George
+  middleInitial: W
+  lastName: Bush
+  email: George.W.Bush@wh.gov
+- firstName: Barack
+  middleInitial: H
+  lastName: Obama
+  email: Barack.H.Obama@wh.gov
+- firstName: Donald
+  middleInitial: J
+  lastName: Trump
+  email: Donald.J.Trump@wh.gov
+
+
