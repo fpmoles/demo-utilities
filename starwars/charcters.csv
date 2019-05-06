@@ -1,0 +1,83 @@
+gender,hair_color,height,homeworld,id,mass,name,skin_color
+male,blond,172,Tatooine,dc9a3088-96d2-40eb-842e-4bde226bbc2c,77,Luke Skywalker,fair
+n/a,n/a,167,Tatooine,57b2d3b4-4dcd-465c-a6cd-9f69750da618,75,C-3PO,gold
+n/a,n/a,96,Naboo,7163a16a-003b-452f-ad9a-02e90dad25d7,32,R2-D2,"white, blue"
+male,none,202,Tatooine,16bcb6e1-b39a-46a0-b1d1-f33bac7a6020,136,Darth Vader,white
+female,brown,150,Alderaan,e46bdf5e-8aff-4b43-96f3-1d90ae06fa14,49,Leia Organa,light
+male,"brown, grey",178,Tatooine,4c263dd5-a95b-4cce-be84-9797466c78d2,120,Owen Lars,light
+female,brown,165,Tatooine,c5e5c622-0c0c-4cef-b260-44480bc46ce6,75,Beru Whitesun lars,light
+n/a,n/a,97,Tatooine,791e6d35-3d98-40a5-ab0c-c795758d82d0,32,R5-D4,"white, red"
+male,black,183,Tatooine,2d296469-c913-4968-9214-b3b9594370bf,84,Biggs Darklighter,light
+male,"auburn, white",182,Stewjon,1241627a-8f67-4379-9061-89145624da91,77,Obi-Wan Kenobi,fair
+male,blond,188,Tatooine,9c0f3f89-18da-4a51-9450-e65c57ee6cdd,84,Anakin Skywalker,fair
+male,"auburn, grey",180,Eriadu,e791168a-5af7-4549-9cb3-f208434fb09f,unknown,Wilhuff Tarkin,fair
+male,brown,228,Kashyyyk,20a42b89-3db1-45eb-a7e8-dda6eaa7060d,112,Chewbacca,unknown
+male,brown,180,Corellia,c8ff77d6-1627-4f42-ba96-c24da5e4a1a1,80,Han Solo,fair
+male,n/a,173,Rodia,f6ca3229-f6e5-4809-a7fe-c5feb2ca3dde,74,Greedo,green
+hermaphrodite,n/a,175,Nal Hutta,16166fea-a282-4a2b-8606-0574f8426cb5,"1,358",Jabba Desilijic Tiure,"green-tan, brown"
+male,brown,170,Corellia,d3ada38b-e175-448e-a7d9-65e09f80a376,77,Wedge Antilles,fair
+male,brown,180,Bestine IV,95f8aff9-6f25-48b3-8e39-a8ee13aa9151,110,Jek Tono Porkins,fair
+male,white,66,unknown,0f1bdb07-bec2-4e57-a478-bc656e0cde8b,17,Yoda,green
+male,grey,170,Naboo,79b4f31f-e646-4a0b-8663-c67524001779,75,Palpatine,pale
+male,black,183,Kamino,35fa88c9-03c9-43f3-8858-be2271946033,78.2,Boba Fett,fair
+none,none,200,unknown,66a35223-0d22-4c07-bc50-6f4ab0dbd737,140,IG-88,metal
+male,none,190,Trandosha,6c11c535-d33b-4b0e-a2c4-74e9f60d70a6,113,Bossk,green
+male,black,177,Socorro,f95a21d9-7a91-43c3-a3f8-0178a761129a,79,Lando Calrissian,dark
+male,none,175,Bespin,beec567a-6f4b-4859-bd71-180a3bc9e9fe,79,Lobot,light
+male,none,180,Mon Cala,95d868ed-5baf-4f96-98e8-fe8774b48241,83,Ackbar,brown mottle
+female,auburn,150,Chandrila,4d30a1d1-e53b-4728-a032-1d9f179c6fb1,unknown,Mon Mothma,fair
+male,brown,unknown,unknown,b3ff20eb-330b-4b26-ad5b-403e2cebdd6f,unknown,Arvel Crynyd,fair
+male,brown,88,Endor,5f263709-7a0d-48e1-b20d-d7b46862f82f,20,Wicket Systri Warrick,brown
+male,none,160,Sullust,a0f8021a-d0c0-48b4-85bb-3c017cea0993,68,Nien Nunb,grey
+male,brown,193,unknown,49a6f823-2754-4f22-aba6-a43333dfcf6e,89,Qui-Gon Jinn,fair
+male,none,191,Cato Neimoidia,ad65f068-4608-4eb3-b249-334012a6b886,90,Nute Gunray,mottled green
+male,blond,170,Coruscant,9757d35d-2d13-4499-857e-d7eeccec5292,unknown,Finis Valorum,fair
+female,brown,185,Naboo,689af18b-e33c-4b37-adc6-d645a17bc152,45,Padmé Amidala,light
+male,none,196,Naboo,5741485d-a47a-4b0f-9d53-0d1174690763,66,Jar Jar Binks,orange
+male,none,224,Naboo,0c021e80-4cdd-4c81-9ecd-42c63ad4f732,82,Roos Tarpals,grey
+male,none,206,Naboo,d9ead8cb-ee55-4889-a683-64a763b3052a,unknown,Rugor Nass,green
+male,brown,183,Naboo,e493786e-5a04-47df-85bf-4d1ac07b9217,unknown,Ric Olié,fair
+male,black,137,Toydaria,0e24a40f-427e-4fbf-b499-edfeaf2b285c,unknown,Watto,"blue, grey"
+male,none,112,Malastare,2728e8c4-027c-4b05-a4e1-1b7ee4bac0db,40,Sebulba,"grey, red"
+male,black,183,Naboo,3b8feb36-b7aa-48d1-ad92-864d90f0edfc,unknown,Quarsh Panaka,dark
+female,black,163,Tatooine,bd421716-bb43-43eb-ae40-289851749666,unknown,Shmi Skywalker,fair
+male,none,175,Dathomir,15506e93-de61-4443-98b7-24024bf0911b,80,Darth Maul,red
+male,none,180,Ryloth,c78fcb2f-afb7-4f5e-adaf-3d692c07c6e4,unknown,Bib Fortuna,pale
+female,none,178,Ryloth,8e5c90b8-a8fc-4ae7-b201-1c973316f420,55,Ayla Secura,blue
+male,none,79,Aleen Minor,cf516b27-2aa4-4721-8598-e1078f5f01c9,15,Ratts Tyerel,"grey, blue"
+male,none,94,Vulpter,0645888d-59af-4bca-9138-bf1255487e8b,45,Dud Bolt,"blue, grey"
+male,none,122,Troiken,e13ae489-5e5d-4452-b6f4-6414de3e20bf,unknown,Gasgano,"white, blue"
+male,none,163,Tund,c261fcea-c494-4884-b10c-18f22851f2b1,65,Ben Quadinaros,"grey, green, yellow"
+male,none,188,Haruun Kal,19febf80-c47c-4054-abb1-cfd953f55947,84,Mace Windu,dark
+male,white,198,Cerea,72e2f201-8908-4454-9ce1-ad6d4d6312f3,82,Ki-Adi-Mundi,pale
+male,none,196,Glee Anselm,fff742d7-f013-4f1c-a43d-38ebec7b795f,87,Kit Fisto,green
+male,black,171,Iridonia,0853cc77-9f64-4979-900e-6928af28a41a,unknown,Eeth Koth,brown
+female,none,184,Coruscant,7bdd440b-7461-4386-88fd-66e443c890d5,50,Adi Gallia,dark
+male,none,188,Iktotch,f62a9a95-ec83-41dc-a7dd-0308e778caee,unknown,Saesee Tiin,pale
+male,none,264,Quermia,7a6e5d16-5466-4ea2-b7f9-336f353a2929,unknown,Yarael Poof,white
+male,none,188,Dorin,bb43a76a-b153-458a-95e8-9c5627aecf9c,80,Plo Koon,orange
+male,none,196,Champala,cd0764f8-d4ea-484a-9afd-e3873292826b,unknown,Mas Amedda,blue
+male,black,185,Naboo,30a49589-0689-4c4d-aefa-a130d7b46bea,85,Gregar Typho,dark
+female,brown,157,Naboo,a0d76b14-9978-4387-a30d-76f6c165dbd5,unknown,Cordé,light
+male,brown,183,Tatooine,7f5ef18e-c14b-4149-8ca9-2ba43369016f,unknown,Cliegg Lars,fair
+male,none,183,Geonosis,7d184b53-dd1c-4a97-a194-61800b5bce79,80,Poggle the Lesser,green
+female,black,170,Mirial,ebd2d06d-2bd5-4981-ab7c-27042ea8cfb1,56.2,Luminara Unduli,yellow
+female,black,166,Mirial,0a3d2b76-6ff0-40a4-8c12-0abc4a10ea83,50,Barriss Offee,yellow
+female,brown,165,Naboo,c7743cea-6456-4a16-80d5-b8266c2d0968,unknown,Dormé,light
+male,white,193,Serenno,9cab0f00-6030-4d18-9dbb-53ff84fde22b,80,Dooku,fair
+male,black,191,Alderaan,60621f64-ac66-4444-98a4-d55edaf4f3b5,unknown,Bail Prestor Organa,tan
+male,black,183,Concord Dawn,335cd3c2-12a2-4b71-9f41-67679b7d50eb,79,Jango Fett,tan
+female,blonde,168,Zolan,efa04ec2-846f-4df1-bc7a-d07c7c820fc9,55,Zam Wesell,"fair, green, yellow"
+male,none,198,Ojom,f7b2bd75-75e7-48e6-842d-ae6dfefd2647,102,Dexter Jettster,brown
+male,none,229,Kamino,967e43ee-16ba-4637-b92b-cf895a2a0d5e,88,Lama Su,grey
+female,none,213,Kamino,0551bad6-50c6-49f3-8f74-deb798b59d01,unknown,Taun We,grey
+female,white,167,Coruscant,f5e654d6-f87b-4da2-a54f-f75e598746fd,unknown,Jocasta Nu,fair
+female,none,96,unknown,44656a9e-b5e4-4fd3-a72a-72667af35d28,unknown,R4-P17,"silver, red"
+male,none,193,Skako,07076f17-2715-4e99-87dc-8c3146efe0ee,48,Wat Tambor,"green, grey"
+male,none,191,Muunilinst,0b4a0243-4af9-48c6-a731-a26a1fb39db9,unknown,San Hill,grey
+female,none,178,Shili,3d30f970-7708-4fa9-b142-ca5d6c7b773a,57,Shaak Ti,"red, blue, white"
+male,none,216,Kalee,a3e918c7-1d4e-4b89-9442-739f3169d1c2,159,Grievous,"brown, white"
+male,brown,234,Kashyyyk,4ed31961-de2f-4152-9c5c-e4dfe4a5be3c,136,Tarfful,brown
+male,brown,188,Alderaan,067492bf-562f-4ef1-972f-9055405c22b8,79,Raymus Antilles,light
+female,none,178,Umbara,c76f7120-241d-4998-9812-c4b479042489,48,Sly Moore,pale
+male,none,206,Utapau,2eb1e701-2588-495f-b091-eb3e5beac8b8,80,Tion Medon,grey

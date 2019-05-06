@@ -1,0 +1,11 @@
+CRETE TABLE CHARACTER (
+  character_id text,
+  name text,
+  home_world text,
+  gender text,
+  height int,
+  mass int,
+  hair_color text,
+  skin_color text,
+  PRIMARY KEY (character_id)
+);
