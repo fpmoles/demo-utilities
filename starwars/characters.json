@@ -1,0 +1,822 @@
+[
+    {
+        "mass": "77", 
+        "name": "Luke Skywalker", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "172", 
+        "id": "bacf1687-84c8-49f0-a03b-caef64f9fa08", 
+        "hair_color": "blond", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "75", 
+        "name": "C-3PO", 
+        "homeworld": "Tatooine", 
+        "gender": "n/a", 
+        "height": "167", 
+        "id": "18a18b3f-58b1-4549-880f-fe076b46c760", 
+        "hair_color": "n/a", 
+        "skin_color": "gold"
+    }, 
+    {
+        "mass": "32", 
+        "name": "R2-D2", 
+        "homeworld": "Naboo", 
+        "gender": "n/a", 
+        "height": "96", 
+        "id": "4eec4fdb-6333-4b38-a20a-08745c9886f3", 
+        "hair_color": "n/a", 
+        "skin_color": "white, blue"
+    }, 
+    {
+        "mass": "136", 
+        "name": "Darth Vader", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "202", 
+        "id": "eaf56af0-3344-4ceb-a924-8efff8421276", 
+        "hair_color": "none", 
+        "skin_color": "white"
+    }, 
+    {
+        "mass": "49", 
+        "name": "Leia Organa", 
+        "homeworld": "Alderaan", 
+        "gender": "female", 
+        "height": "150", 
+        "id": "19a1000b-da04-4847-a8ef-a9d0b6704d7b", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "120", 
+        "name": "Owen Lars", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "178", 
+        "id": "26cf36b8-026a-42f8-a50d-cb07bb0c8f13", 
+        "hair_color": "brown, grey", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "75", 
+        "name": "Beru Whitesun lars", 
+        "homeworld": "Tatooine", 
+        "gender": "female", 
+        "height": "165", 
+        "id": "465bbd74-47a9-413c-bcfb-3f0c60ef778f", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "32", 
+        "name": "R5-D4", 
+        "homeworld": "Tatooine", 
+        "gender": "n/a", 
+        "height": "97", 
+        "id": "a697b20f-29f2-45d6-a7ad-de2cfb10165c", 
+        "hair_color": "n/a", 
+        "skin_color": "white, red"
+    }, 
+    {
+        "mass": "84", 
+        "name": "Biggs Darklighter", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "42e54707-d177-4ddf-bc90-31feff8abf13", 
+        "hair_color": "black", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "77", 
+        "name": "Obi-Wan Kenobi", 
+        "homeworld": "Stewjon", 
+        "gender": "male", 
+        "height": "182", 
+        "id": "49517503-4c2b-4bf9-9fa9-6352b928daf3", 
+        "hair_color": "auburn, white", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "84", 
+        "name": "Anakin Skywalker", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "188", 
+        "id": "0913abc5-2240-412f-a27d-a3f351ea7e10", 
+        "hair_color": "blond", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Wilhuff Tarkin", 
+        "homeworld": "Eriadu", 
+        "gender": "male", 
+        "height": "180", 
+        "id": "6aa1d035-47ea-4530-af1a-a6b6f3653468", 
+        "hair_color": "auburn, grey", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "112", 
+        "name": "Chewbacca", 
+        "homeworld": "Kashyyyk", 
+        "gender": "male", 
+        "height": "228", 
+        "id": "fd02f26d-2ab0-49dc-9239-202e13bb1d0f", 
+        "hair_color": "brown", 
+        "skin_color": "unknown"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Han Solo", 
+        "homeworld": "Corellia", 
+        "gender": "male", 
+        "height": "180", 
+        "id": "bdd6a245-37db-4398-99ec-29553533f3d6", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "74", 
+        "name": "Greedo", 
+        "homeworld": "Rodia", 
+        "gender": "male", 
+        "height": "173", 
+        "id": "59bac8b1-9abe-45ba-b107-b0d283871f5f", 
+        "hair_color": "n/a", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "1,358", 
+        "name": "Jabba Desilijic Tiure", 
+        "homeworld": "Nal Hutta", 
+        "gender": "hermaphrodite", 
+        "height": "175", 
+        "id": "f59a99c7-7378-4e48-82ea-249101c28a1f", 
+        "hair_color": "n/a", 
+        "skin_color": "green-tan, brown"
+    }, 
+    {
+        "mass": "77", 
+        "name": "Wedge Antilles", 
+        "homeworld": "Corellia", 
+        "gender": "male", 
+        "height": "170", 
+        "id": "384b64f0-56a5-4b92-b4cb-1d3d0d80c5a6", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "110", 
+        "name": "Jek Tono Porkins", 
+        "homeworld": "Bestine IV", 
+        "gender": "male", 
+        "height": "180", 
+        "id": "13cb162b-f2b3-4dad-9c07-4584b77a4a94", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "17", 
+        "name": "Yoda", 
+        "homeworld": "unknown", 
+        "gender": "male", 
+        "height": "66", 
+        "id": "c49a043e-2a28-404c-885a-81802e0ef0a1", 
+        "hair_color": "white", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "75", 
+        "name": "Palpatine", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "170", 
+        "id": "871b6ca0-4ee1-4cdf-9da8-55f4a04eb9d9", 
+        "hair_color": "grey", 
+        "skin_color": "pale"
+    }, 
+    {
+        "mass": "78.2", 
+        "name": "Boba Fett", 
+        "homeworld": "Kamino", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "edd78eff-4674-4c59-a7d6-8972f9c37fe2", 
+        "hair_color": "black", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "140", 
+        "name": "IG-88", 
+        "homeworld": "unknown", 
+        "gender": "none", 
+        "height": "200", 
+        "id": "9342aca7-f4c1-497e-a18f-2e5d8121c071", 
+        "hair_color": "none", 
+        "skin_color": "metal"
+    }, 
+    {
+        "mass": "113", 
+        "name": "Bossk", 
+        "homeworld": "Trandosha", 
+        "gender": "male", 
+        "height": "190", 
+        "id": "9ba31c73-421b-4dd5-aceb-4d8bc6821e0d", 
+        "hair_color": "none", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "79", 
+        "name": "Lando Calrissian", 
+        "homeworld": "Socorro", 
+        "gender": "male", 
+        "height": "177", 
+        "id": "269059a6-03d4-450f-adcb-b30ec910e1c2", 
+        "hair_color": "black", 
+        "skin_color": "dark"
+    }, 
+    {
+        "mass": "79", 
+        "name": "Lobot", 
+        "homeworld": "Bespin", 
+        "gender": "male", 
+        "height": "175", 
+        "id": "9c99ec5e-01f5-42b7-a624-8fa984cc1940", 
+        "hair_color": "none", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "83", 
+        "name": "Ackbar", 
+        "homeworld": "Mon Cala", 
+        "gender": "male", 
+        "height": "180", 
+        "id": "2456da3a-3761-42b5-ad66-a0bbd48b75c0", 
+        "hair_color": "none", 
+        "skin_color": "brown mottle"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Mon Mothma", 
+        "homeworld": "Chandrila", 
+        "gender": "female", 
+        "height": "150", 
+        "id": "9072c4f7-8700-49e4-b08c-a028b663aaa5", 
+        "hair_color": "auburn", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Arvel Crynyd", 
+        "homeworld": "unknown", 
+        "gender": "male", 
+        "height": "unknown", 
+        "id": "152d62b2-7347-4f82-96c1-ccbc32ff0981", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "20", 
+        "name": "Wicket Systri Warrick", 
+        "homeworld": "Endor", 
+        "gender": "male", 
+        "height": "88", 
+        "id": "4c62e4fa-9459-4166-847b-0c5ce86a9525", 
+        "hair_color": "brown", 
+        "skin_color": "brown"
+    }, 
+    {
+        "mass": "68", 
+        "name": "Nien Nunb", 
+        "homeworld": "Sullust", 
+        "gender": "male", 
+        "height": "160", 
+        "id": "8a2e2732-4943-4c88-9171-957675c4f25d", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }, 
+    {
+        "mass": "89", 
+        "name": "Qui-Gon Jinn", 
+        "homeworld": "unknown", 
+        "gender": "male", 
+        "height": "193", 
+        "id": "cfc46952-a876-40f0-bfca-a5f9796ebdf5", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "90", 
+        "name": "Nute Gunray", 
+        "homeworld": "Cato Neimoidia", 
+        "gender": "male", 
+        "height": "191", 
+        "id": "5ab5ec21-c69b-49d6-a463-6756a0e671f6", 
+        "hair_color": "none", 
+        "skin_color": "mottled green"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Finis Valorum", 
+        "homeworld": "Coruscant", 
+        "gender": "male", 
+        "height": "170", 
+        "id": "6692a9ce-7c40-4b49-bb9b-d67aa617b62e", 
+        "hair_color": "blond", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "45", 
+        "name": "Padm\u00e9 Amidala", 
+        "homeworld": "Naboo", 
+        "gender": "female", 
+        "height": "185", 
+        "id": "93985e15-c18b-43ed-b315-f93739eb7bfe", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "66", 
+        "name": "Jar Jar Binks", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "196", 
+        "id": "a708b58a-6ca0-405c-8dd8-4a52155f9102", 
+        "hair_color": "none", 
+        "skin_color": "orange"
+    }, 
+    {
+        "mass": "82", 
+        "name": "Roos Tarpals", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "224", 
+        "id": "1fd21fee-f839-4bca-a07f-60af6123a1ba", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Rugor Nass", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "206", 
+        "id": "95f06e82-327e-4755-a479-6b712a521e49", 
+        "hair_color": "none", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Ric Oli\u00e9", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "b51ec65d-bca5-409f-8ca9-36f2dfa3ad93", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Watto", 
+        "homeworld": "Toydaria", 
+        "gender": "male", 
+        "height": "137", 
+        "id": "40ce91f2-15ab-4d70-bf25-253a08151135", 
+        "hair_color": "black", 
+        "skin_color": "blue, grey"
+    }, 
+    {
+        "mass": "40", 
+        "name": "Sebulba", 
+        "homeworld": "Malastare", 
+        "gender": "male", 
+        "height": "112", 
+        "id": "139307fe-cc93-4895-a563-97d1b82bef06", 
+        "hair_color": "none", 
+        "skin_color": "grey, red"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Quarsh Panaka", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "1939c3fb-0d1b-4a7f-9b14-616a44408964", 
+        "hair_color": "black", 
+        "skin_color": "dark"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Shmi Skywalker", 
+        "homeworld": "Tatooine", 
+        "gender": "female", 
+        "height": "163", 
+        "id": "5f309df4-7ed3-491c-b620-b1a8a9ab6bb3", 
+        "hair_color": "black", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Darth Maul", 
+        "homeworld": "Dathomir", 
+        "gender": "male", 
+        "height": "175", 
+        "id": "4c533230-cfbb-4d7f-8d4f-c9d5e42e4002", 
+        "hair_color": "none", 
+        "skin_color": "red"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Bib Fortuna", 
+        "homeworld": "Ryloth", 
+        "gender": "male", 
+        "height": "180", 
+        "id": "16941f58-95f8-4949-988f-ac587125024e", 
+        "hair_color": "none", 
+        "skin_color": "pale"
+    }, 
+    {
+        "mass": "55", 
+        "name": "Ayla Secura", 
+        "homeworld": "Ryloth", 
+        "gender": "female", 
+        "height": "178", 
+        "id": "2c7be22b-b4c0-4784-bb47-ed67f585a8c1", 
+        "hair_color": "none", 
+        "skin_color": "blue"
+    }, 
+    {
+        "mass": "15", 
+        "name": "Ratts Tyerel", 
+        "homeworld": "Aleen Minor", 
+        "gender": "male", 
+        "height": "79", 
+        "id": "7f6b338d-5a5a-4c4e-861a-2aebc79ef448", 
+        "hair_color": "none", 
+        "skin_color": "grey, blue"
+    }, 
+    {
+        "mass": "45", 
+        "name": "Dud Bolt", 
+        "homeworld": "Vulpter", 
+        "gender": "male", 
+        "height": "94", 
+        "id": "b21728f4-662b-4980-9682-3f1f1bfb16d7", 
+        "hair_color": "none", 
+        "skin_color": "blue, grey"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Gasgano", 
+        "homeworld": "Troiken", 
+        "gender": "male", 
+        "height": "122", 
+        "id": "41c9dbe3-a014-47d1-a719-43a2c9c7d32c", 
+        "hair_color": "none", 
+        "skin_color": "white, blue"
+    }, 
+    {
+        "mass": "65", 
+        "name": "Ben Quadinaros", 
+        "homeworld": "Tund", 
+        "gender": "male", 
+        "height": "163", 
+        "id": "b674a9ee-f3f9-4a76-bd7d-3dfb51dd4d1b", 
+        "hair_color": "none", 
+        "skin_color": "grey, green, yellow"
+    }, 
+    {
+        "mass": "84", 
+        "name": "Mace Windu", 
+        "homeworld": "Haruun Kal", 
+        "gender": "male", 
+        "height": "188", 
+        "id": "7238b613-476b-474e-8769-3545510d6cdc", 
+        "hair_color": "none", 
+        "skin_color": "dark"
+    }, 
+    {
+        "mass": "82", 
+        "name": "Ki-Adi-Mundi", 
+        "homeworld": "Cerea", 
+        "gender": "male", 
+        "height": "198", 
+        "id": "93c89398-eea1-4a48-8f84-b1d9e686359e", 
+        "hair_color": "white", 
+        "skin_color": "pale"
+    }, 
+    {
+        "mass": "87", 
+        "name": "Kit Fisto", 
+        "homeworld": "Glee Anselm", 
+        "gender": "male", 
+        "height": "196", 
+        "id": "b6bfabe0-565b-41e8-81ee-767b01503532", 
+        "hair_color": "none", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Eeth Koth", 
+        "homeworld": "Iridonia", 
+        "gender": "male", 
+        "height": "171", 
+        "id": "c8ca3dc5-7559-47ae-9a8d-28c0156fdcc6", 
+        "hair_color": "black", 
+        "skin_color": "brown"
+    }, 
+    {
+        "mass": "50", 
+        "name": "Adi Gallia", 
+        "homeworld": "Coruscant", 
+        "gender": "female", 
+        "height": "184", 
+        "id": "1eb7f8a2-4bd2-4497-a7be-d9f4f84914f4", 
+        "hair_color": "none", 
+        "skin_color": "dark"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Saesee Tiin", 
+        "homeworld": "Iktotch", 
+        "gender": "male", 
+        "height": "188", 
+        "id": "d4c49b73-879d-4fe8-aff9-47c87b186cd2", 
+        "hair_color": "none", 
+        "skin_color": "pale"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Yarael Poof", 
+        "homeworld": "Quermia", 
+        "gender": "male", 
+        "height": "264", 
+        "id": "f4690d57-c39a-4783-a05c-f94f8269c7a6", 
+        "hair_color": "none", 
+        "skin_color": "white"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Plo Koon", 
+        "homeworld": "Dorin", 
+        "gender": "male", 
+        "height": "188", 
+        "id": "317ec98c-59ab-42d8-957d-4e8e3c65e78d", 
+        "hair_color": "none", 
+        "skin_color": "orange"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Mas Amedda", 
+        "homeworld": "Champala", 
+        "gender": "male", 
+        "height": "196", 
+        "id": "c85de066-dec4-452a-b8f5-f9e78912b6dd", 
+        "hair_color": "none", 
+        "skin_color": "blue"
+    }, 
+    {
+        "mass": "85", 
+        "name": "Gregar Typho", 
+        "homeworld": "Naboo", 
+        "gender": "male", 
+        "height": "185", 
+        "id": "3c4b323f-d442-49c6-9438-964eb0283317", 
+        "hair_color": "black", 
+        "skin_color": "dark"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Cord\u00e9", 
+        "homeworld": "Naboo", 
+        "gender": "female", 
+        "height": "157", 
+        "id": "f582c289-4b9b-4021-826b-188f87fd8668", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Cliegg Lars", 
+        "homeworld": "Tatooine", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "acd677ca-3521-4139-93c7-a170ecbed110", 
+        "hair_color": "brown", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Poggle the Lesser", 
+        "homeworld": "Geonosis", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "a3277492-59ad-4783-9294-65b1ea722743", 
+        "hair_color": "none", 
+        "skin_color": "green"
+    }, 
+    {
+        "mass": "56.2", 
+        "name": "Luminara Unduli", 
+        "homeworld": "Mirial", 
+        "gender": "female", 
+        "height": "170", 
+        "id": "7e310492-d67d-4c5b-a655-be7302f2dfb9", 
+        "hair_color": "black", 
+        "skin_color": "yellow"
+    }, 
+    {
+        "mass": "50", 
+        "name": "Barriss Offee", 
+        "homeworld": "Mirial", 
+        "gender": "female", 
+        "height": "166", 
+        "id": "30f6fd41-f224-4e91-bd8f-801029be9289", 
+        "hair_color": "black", 
+        "skin_color": "yellow"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Dorm\u00e9", 
+        "homeworld": "Naboo", 
+        "gender": "female", 
+        "height": "165", 
+        "id": "e1b9fd92-f1ef-42c5-bd03-a4c16ba3a6be", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Dooku", 
+        "homeworld": "Serenno", 
+        "gender": "male", 
+        "height": "193", 
+        "id": "570c274a-b4fb-4d47-a478-f8e8e12d9c83", 
+        "hair_color": "white", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Bail Prestor Organa", 
+        "homeworld": "Alderaan", 
+        "gender": "male", 
+        "height": "191", 
+        "id": "742f75a0-6cd3-4312-8057-f416aa103881", 
+        "hair_color": "black", 
+        "skin_color": "tan"
+    }, 
+    {
+        "mass": "79", 
+        "name": "Jango Fett", 
+        "homeworld": "Concord Dawn", 
+        "gender": "male", 
+        "height": "183", 
+        "id": "e832f6dc-e912-4c57-8b65-f3cdef960bf1", 
+        "hair_color": "black", 
+        "skin_color": "tan"
+    }, 
+    {
+        "mass": "55", 
+        "name": "Zam Wesell", 
+        "homeworld": "Zolan", 
+        "gender": "female", 
+        "height": "168", 
+        "id": "34e13ff9-c34b-4a9d-a002-153a2aaf231e", 
+        "hair_color": "blonde", 
+        "skin_color": "fair, green, yellow"
+    }, 
+    {
+        "mass": "102", 
+        "name": "Dexter Jettster", 
+        "homeworld": "Ojom", 
+        "gender": "male", 
+        "height": "198", 
+        "id": "89326ec2-f787-4c55-bf8b-44d6fab4488c", 
+        "hair_color": "none", 
+        "skin_color": "brown"
+    }, 
+    {
+        "mass": "88", 
+        "name": "Lama Su", 
+        "homeworld": "Kamino", 
+        "gender": "male", 
+        "height": "229", 
+        "id": "21bdcc7c-18df-4e1b-9c85-103819afca10", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Taun We", 
+        "homeworld": "Kamino", 
+        "gender": "female", 
+        "height": "213", 
+        "id": "f21e34b4-3a0c-4fc7-b7e7-5212a1626943", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "Jocasta Nu", 
+        "homeworld": "Coruscant", 
+        "gender": "female", 
+        "height": "167", 
+        "id": "0a7f6f20-d984-48e8-b3d6-6624a0163284", 
+        "hair_color": "white", 
+        "skin_color": "fair"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "R4-P17", 
+        "homeworld": "unknown", 
+        "gender": "female", 
+        "height": "96", 
+        "id": "7093811f-941a-4dbd-9b3a-c2d528feb183", 
+        "hair_color": "none", 
+        "skin_color": "silver, red"
+    }, 
+    {
+        "mass": "48", 
+        "name": "Wat Tambor", 
+        "homeworld": "Skako", 
+        "gender": "male", 
+        "height": "193", 
+        "id": "8dcc8443-bad0-4c44-87cb-38bbcadea45d", 
+        "hair_color": "none", 
+        "skin_color": "green, grey"
+    }, 
+    {
+        "mass": "unknown", 
+        "name": "San Hill", 
+        "homeworld": "Muunilinst", 
+        "gender": "male", 
+        "height": "191", 
+        "id": "c46309c5-0659-47d2-83c5-ec5156e4a78b", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }, 
+    {
+        "mass": "57", 
+        "name": "Shaak Ti", 
+        "homeworld": "Shili", 
+        "gender": "female", 
+        "height": "178", 
+        "id": "b2cf3b00-7f79-41ca-80bd-8c7a90bec18a", 
+        "hair_color": "none", 
+        "skin_color": "red, blue, white"
+    }, 
+    {
+        "mass": "159", 
+        "name": "Grievous", 
+        "homeworld": "Kalee", 
+        "gender": "male", 
+        "height": "216", 
+        "id": "250c5533-cd8a-43f7-814d-8ec553dfe674", 
+        "hair_color": "none", 
+        "skin_color": "brown, white"
+    }, 
+    {
+        "mass": "136", 
+        "name": "Tarfful", 
+        "homeworld": "Kashyyyk", 
+        "gender": "male", 
+        "height": "234", 
+        "id": "7ee2fe0f-2ee8-489d-b2b0-fbbd0a1b80f4", 
+        "hair_color": "brown", 
+        "skin_color": "brown"
+    }, 
+    {
+        "mass": "79", 
+        "name": "Raymus Antilles", 
+        "homeworld": "Alderaan", 
+        "gender": "male", 
+        "height": "188", 
+        "id": "82632dde-245e-489c-801c-d5440ee7547e", 
+        "hair_color": "brown", 
+        "skin_color": "light"
+    }, 
+    {
+        "mass": "48", 
+        "name": "Sly Moore", 
+        "homeworld": "Umbara", 
+        "gender": "female", 
+        "height": "178", 
+        "id": "d61d62f9-178b-49ff-afca-e2d0474fb5b4", 
+        "hair_color": "none", 
+        "skin_color": "pale"
+    }, 
+    {
+        "mass": "80", 
+        "name": "Tion Medon", 
+        "homeworld": "Utapau", 
+        "gender": "male", 
+        "height": "206", 
+        "id": "25ddcd8e-e6b4-4d69-9320-94c6999468e3", 
+        "hair_color": "none", 
+        "skin_color": "grey"
+    }
+]
